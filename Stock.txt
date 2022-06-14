@@ -1,0 +1,8 @@
+   1     ,  Harry Potter 	     	,  J.K. Rowling	 ,      31        ,     7                                                                                                  
+   2     ,  Start With Why	     	,  Simon Sinek	 ,      10        ,    4.5                                                                                                  
+   3     ,  Programming With Python  	,  John Smith	 ,      20        ,     9                                                                                                
+   4     ,  Man's Searching for meaning ,  Viktor E.F    ,      20        ,     5                                                                      
+   5	 ,  The Cruel Prince		,  Holly Black   ,      12	  ,     6   
+   6	 ,  One Of Us Is Lying		,  Karen M. M.   ,      25	  ,     5   
+   7	 ,  Becomming			,  Michelle Obama,      9        ,     4   
+   8     ,  Rich Dad Poor Dad		,  Robert T. K.  ,      29        ,     10  

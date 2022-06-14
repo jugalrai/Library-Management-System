@@ -1,0 +1,17 @@
+
+Name: jugal
+BookID: 1
+Current Date: September 06, 2021
+Amount: 2.0
+Name: jugal
+BookID: 7
+Current Date: September 06, 2021
+Amount: 4.0
+Name: jugal
+BookID: 8
+Current Date: September 06, 2021
+Amount: 10.0
+Name: jugal
+BookID: 1
+Current Date: June 14, 2022
+Amount: 7.0
